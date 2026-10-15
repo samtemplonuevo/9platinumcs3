@@ -4,4 +4,4 @@
 ## Activities
 
 ### SG9 Inheritance
-[](q2/sg9_inheritance.py)
+[view my activity here](q2/sg9_inheritance.py)
