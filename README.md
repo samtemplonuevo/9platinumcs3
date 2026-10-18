@@ -4,7 +4,7 @@
 ## Activities
 
 ### Chinese Zodiac
-[view my activity here](q1/Chinese Zodiac.py)
+[view my activity here](q1/Chinese_Zodiac.py)
 
 ### OOP Concept
 [view my activity here]
