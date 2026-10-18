@@ -1,5 +1,27 @@
 # 9platinumcs3
 ---
+# Quarter 1
+## Activities
+
+### Chinese Zodiac
+[view my activity here]
+
+### OOP Concept
+[view my activity here]
+
+### OOP ACT 1
+[view my activity here]
+
+### OOP ACT 2
+[view my activity here]
+
+### OOP ACT 3
+[view my activity here]
+
+### OOP ACT 4
+[view my activity here]
+
+
 # Quarter 2
 ## Activities
 
