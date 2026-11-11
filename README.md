@@ -30,3 +30,6 @@
 
 ### SG9 Inheritance
 [view my activity here](q2/sg9_inheritance.py)
+
+### SG10 Method Overriding
+[view my activity here](q2/sg10_method_overriding.py)
