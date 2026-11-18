@@ -29,10 +29,12 @@
 [view my activity here](q2/sg8_encapsulation.py)
 
 ### SG9 Inheritance
-[view my activity here](q2/sg9_inheritance.py)
+[view my activity  here](q2/sg9_inheritance.py)
+
 
 ### SG10 Method Overriding
 [view my activity here](q2/sg10_method_overriding.py)
 
 ### SG11 Polymorphism
-[view my activity here](q2/sg11_activity1.py)
+[view my activity 1 here](q2/sg11_activity1.py)
+[view my activity 2 here](q2/sg11_activity2.py)
