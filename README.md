@@ -33,3 +33,6 @@
 
 ### SG10 Method Overriding
 [view my activity here](q2/sg10_method_overriding.py)
+
+### SG11 Polymorphism
+[view my activity here](q2/sg11_activity1.py)
